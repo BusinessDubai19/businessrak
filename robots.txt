@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://businessrak.pages.dev/sitemap.xml
